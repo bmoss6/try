@@ -1,12 +1,3 @@
-*
- * linux 2.6.37-3.x.x x86_64, ~100 LOC
- * gcc-4.6 -O2 semtex.c && ./a.out
- * 2010 sd@fucksheep.org, salut!
- *
- * update may 2013:
- * seems like centos 2.6.32 backported the perf bug, lol.
- * jewgold to 115T6jzGrVMgQ2Nt1Wnua7Ch1EuL9WXT2g if you insist.
- */
 
 #define _GNU_SOURCE 1
 #include <stdint.h>
